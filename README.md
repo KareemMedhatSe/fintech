@@ -14,5 +14,7 @@
 The API is documented using **OpenAPI 3.0 / Swagger UI**.
 
  Swagger UI: [http://localhost:8094/swagger-ui.html](http://localhost:8094/swagger-ui.html)  
+
+ 
  ![Image](https://github.com/user-attachments/assets/e93f2781-56bb-40cf-a790-1caf5586f12e)
 
